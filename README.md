@@ -18,7 +18,7 @@ Open IQ Voice from the notification area to change your shortcut or microphone, 
 
 ## Optional rewriting
 
-Ordinary dictation transcribes audio on your PC. If you have an OpenRouter account, you can set your own `OPENROUTER_API_KEY` as a Windows user environment variable, reopen IQ Voice and enable **Polish dictation shortcut** in **Labs**. Use **Ctrl+Shift+Space** with the same hold or tap behaviour as your main shortcut.
+Ordinary dictation transcribes audio on your PC. If you have an OpenRouter account, set your own `OPENROUTER_API_KEY` as a Windows user environment variable. Quit IQ Voice from its notification-area menu and open it again. Enable **Polish dictation shortcut** in **Labs**, then use **Ctrl+Shift+Space** with the same hold or tap behaviour as your main shortcut.
 
 The optional shortcut sends the transcript and rewrite instructions to OpenRouter. Your provider may charge for the request. If rewriting fails, IQ Voice pastes the transcription.
 
